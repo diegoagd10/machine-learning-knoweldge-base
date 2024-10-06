@@ -1,3 +1,6 @@
+## Run the following command in the terminal to start the Streamlit app
+## streamlit run app.py
+
 import streamlit as st
 import numpy as np
 import tensorflow as tf
