@@ -1,13 +1,19 @@
 ## Create conda environment
 
 ```bash
- conda create --prefix ./venv python=3.11.0
+conda create --prefix ./venv python=3.11.0
 ```
 
 ## Activate the environment
 
 ```bash
 conda activate venv/
+```
+
+## Install ipykernel if need
+
+```bash
+conda install ipykernel
 ```
 
 ## Load requirements

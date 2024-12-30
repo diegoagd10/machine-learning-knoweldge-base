@@ -165,3 +165,4 @@ cython_debug/
 
 # Miscellaneous
 amazon_reviews.csv
+shakespeare-hamlet.txt
